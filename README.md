@@ -24,7 +24,7 @@ keystore.identity.key.secretProvider=org.wso2.custom.secret.handler.CustomAWSSec
 
 ## Run
 
-Start the the server, the password for keystore from AWS Secrets Manager.
+Start the the server, the password for keystore would be retrieved from AWS Secrets Manager.
 
 [1]https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-bundle/1.11.74
 
