@@ -11,7 +11,7 @@ Clone the repository, change directory into it and execute the following command
 
 ## Deploy
 
-Copy and place the built JAR artifact from the /target/org.wso2.custom.secret.handler-1.0.0.jar to the <IS_HOME>/repository/components/lib directory.(the built JAR artifact can be found in the releases section)
+Copy and place the built JAR artifact from the /target/org.wso2.custom.secret.handler-1.0.0.jar to the <IS_HOME>/repository/components/lib directory.
 
 Download the aws-java-sdk-bundle jar file[1] corresponding to the sdk version used[2] and add it to the <IS_HOME>/lib/ directory.
 
